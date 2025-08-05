@@ -1,0 +1,15 @@
+/workspaces/Remiefart/ououoop/bin/Debug/net8.0/ououoop
+/workspaces/Remiefart/ououoop/bin/Debug/net8.0/ououoop.deps.json
+/workspaces/Remiefart/ououoop/bin/Debug/net8.0/ououoop.runtimeconfig.json
+/workspaces/Remiefart/ououoop/bin/Debug/net8.0/ououoop.dll
+/workspaces/Remiefart/ououoop/bin/Debug/net8.0/ououoop.pdb
+/workspaces/Remiefart/ououoop/obj/Debug/net8.0/ououoop.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Remiefart/ououoop/obj/Debug/net8.0/ououoop.AssemblyInfoInputs.cache
+/workspaces/Remiefart/ououoop/obj/Debug/net8.0/ououoop.AssemblyInfo.cs
+/workspaces/Remiefart/ououoop/obj/Debug/net8.0/ououoop.csproj.CoreCompileInputs.cache
+/workspaces/Remiefart/ououoop/obj/Debug/net8.0/ououoop.sourcelink.json
+/workspaces/Remiefart/ououoop/obj/Debug/net8.0/ououoop.dll
+/workspaces/Remiefart/ououoop/obj/Debug/net8.0/refint/ououoop.dll
+/workspaces/Remiefart/ououoop/obj/Debug/net8.0/ououoop.pdb
+/workspaces/Remiefart/ououoop/obj/Debug/net8.0/ououoop.genruntimeconfig.cache
+/workspaces/Remiefart/ououoop/obj/Debug/net8.0/ref/ououoop.dll

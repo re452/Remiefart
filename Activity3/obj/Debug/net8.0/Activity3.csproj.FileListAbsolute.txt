@@ -1,0 +1,15 @@
+/workspaces/Remiefart/Activity3/bin/Debug/net8.0/Activity3
+/workspaces/Remiefart/Activity3/bin/Debug/net8.0/Activity3.deps.json
+/workspaces/Remiefart/Activity3/bin/Debug/net8.0/Activity3.runtimeconfig.json
+/workspaces/Remiefart/Activity3/bin/Debug/net8.0/Activity3.dll
+/workspaces/Remiefart/Activity3/bin/Debug/net8.0/Activity3.pdb
+/workspaces/Remiefart/Activity3/obj/Debug/net8.0/Activity3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Remiefart/Activity3/obj/Debug/net8.0/Activity3.AssemblyInfoInputs.cache
+/workspaces/Remiefart/Activity3/obj/Debug/net8.0/Activity3.AssemblyInfo.cs
+/workspaces/Remiefart/Activity3/obj/Debug/net8.0/Activity3.csproj.CoreCompileInputs.cache
+/workspaces/Remiefart/Activity3/obj/Debug/net8.0/Activity3.sourcelink.json
+/workspaces/Remiefart/Activity3/obj/Debug/net8.0/Activity3.dll
+/workspaces/Remiefart/Activity3/obj/Debug/net8.0/refint/Activity3.dll
+/workspaces/Remiefart/Activity3/obj/Debug/net8.0/Activity3.pdb
+/workspaces/Remiefart/Activity3/obj/Debug/net8.0/Activity3.genruntimeconfig.cache
+/workspaces/Remiefart/Activity3/obj/Debug/net8.0/ref/Activity3.dll

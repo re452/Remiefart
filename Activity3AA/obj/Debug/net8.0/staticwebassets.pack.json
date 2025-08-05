@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/Remiefart/Activity3AA/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/workspaces/Remiefart/Activity3AA/obj/Debug/net8.0/compressed/ut30b7ux25.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/workspaces/Remiefart/Activity3AA/obj/Debug/net8.0/scopedcss/bundle/Activity3AA.styles.css",
+      "PackagePath": "staticwebassets/Activity3AA.styles.css"
+    },
+    {
+      "Id": "/workspaces/Remiefart/Activity3AA/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/workspaces/Remiefart/Activity3AA/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/Remiefart/Activity3AA/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Remiefart/Activity3AA/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/workspaces/Remiefart/Activity3AA/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/workspaces/Remiefart/Activity3AA/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/workspaces/Remiefart/Activity3AA/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Activity3AA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Activity3AA.props",
+      "PackagePath": "build\\Activity3AA.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Activity3AA.props",
+      "PackagePath": "buildMultiTargeting\\Activity3AA.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Activity3AA.props",
+      "PackagePath": "buildTransitive\\Activity3AA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
