@@ -1,0 +1,15 @@
+/workspaces/Remiefart/Waaah/bin/Debug/net8.0/Waaah
+/workspaces/Remiefart/Waaah/bin/Debug/net8.0/Waaah.deps.json
+/workspaces/Remiefart/Waaah/bin/Debug/net8.0/Waaah.runtimeconfig.json
+/workspaces/Remiefart/Waaah/bin/Debug/net8.0/Waaah.dll
+/workspaces/Remiefart/Waaah/bin/Debug/net8.0/Waaah.pdb
+/workspaces/Remiefart/Waaah/obj/Debug/net8.0/Waaah.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Remiefart/Waaah/obj/Debug/net8.0/Waaah.AssemblyInfoInputs.cache
+/workspaces/Remiefart/Waaah/obj/Debug/net8.0/Waaah.AssemblyInfo.cs
+/workspaces/Remiefart/Waaah/obj/Debug/net8.0/Waaah.csproj.CoreCompileInputs.cache
+/workspaces/Remiefart/Waaah/obj/Debug/net8.0/Waaah.sourcelink.json
+/workspaces/Remiefart/Waaah/obj/Debug/net8.0/Waaah.dll
+/workspaces/Remiefart/Waaah/obj/Debug/net8.0/refint/Waaah.dll
+/workspaces/Remiefart/Waaah/obj/Debug/net8.0/Waaah.pdb
+/workspaces/Remiefart/Waaah/obj/Debug/net8.0/Waaah.genruntimeconfig.cache
+/workspaces/Remiefart/Waaah/obj/Debug/net8.0/ref/Waaah.dll

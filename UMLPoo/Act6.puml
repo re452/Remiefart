@@ -1,0 +1,46 @@
+@startuml Act6.puml
+class Course {
+    +string title
+    #int units
+    +Course(string t, int u)
+}
+
+class Student {
+    +string name
+    Course enrolledCourse
+    +Student(string n, Course c)
+}
+
+class Teacher {
+    +string name
+    #string subject
+    +Teacher(string n, string s)
+    +Teach()
+}
+
+class Department {
+    +string name
+    +List<Teacher> teachers
+    +Department(string n)
+}
+
+class Room {
+    +string name
+    +Room(string n)
+}
+
+class House {
+    +string address
+    +List<Room> rooms
+    +House(string addr)
+    +ShowRooms()
+}
+
+class Program {
++Main() : void
+}
+
+Student -- Course
+Department o-- Teacher
+House *-- Room
+@enduml 

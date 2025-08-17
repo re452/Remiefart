@@ -1,0 +1,18 @@
+@startuml sample.puml
+interface Item
+
+Item <|-- Toy
+Item <|-- Tool
+Item <|-- Bread
+
+class ShoppingCart {
+    +List<Item> Items
+
+    +void addItem(Item item)
+    +void removeItem(Item item)
+    +Item getItem(int index)
+    +int size()
+}
+
+ShoppingCart o-- Item
+@enduml

@@ -1,0 +1,15 @@
+/workspaces/Remiefart/OOPConsoleTr/obj/Debug/net8.0/OOPConsoleTr.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Remiefart/OOPConsoleTr/obj/Debug/net8.0/OOPConsoleTr.AssemblyInfoInputs.cache
+/workspaces/Remiefart/OOPConsoleTr/obj/Debug/net8.0/OOPConsoleTr.AssemblyInfo.cs
+/workspaces/Remiefart/OOPConsoleTr/obj/Debug/net8.0/OOPConsoleTr.csproj.CoreCompileInputs.cache
+/workspaces/Remiefart/OOPConsoleTr/obj/Debug/net8.0/OOPConsoleTr.sourcelink.json
+/workspaces/Remiefart/OOPConsoleTr/bin/Debug/net8.0/OOPConsoleTr
+/workspaces/Remiefart/OOPConsoleTr/bin/Debug/net8.0/OOPConsoleTr.deps.json
+/workspaces/Remiefart/OOPConsoleTr/bin/Debug/net8.0/OOPConsoleTr.runtimeconfig.json
+/workspaces/Remiefart/OOPConsoleTr/bin/Debug/net8.0/OOPConsoleTr.dll
+/workspaces/Remiefart/OOPConsoleTr/bin/Debug/net8.0/OOPConsoleTr.pdb
+/workspaces/Remiefart/OOPConsoleTr/obj/Debug/net8.0/OOPConsoleTr.dll
+/workspaces/Remiefart/OOPConsoleTr/obj/Debug/net8.0/refint/OOPConsoleTr.dll
+/workspaces/Remiefart/OOPConsoleTr/obj/Debug/net8.0/OOPConsoleTr.pdb
+/workspaces/Remiefart/OOPConsoleTr/obj/Debug/net8.0/OOPConsoleTr.genruntimeconfig.cache
+/workspaces/Remiefart/OOPConsoleTr/obj/Debug/net8.0/ref/OOPConsoleTr.dll

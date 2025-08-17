@@ -1,0 +1,15 @@
+/workspaces/Remiefart/Activity4poo/obj/Debug/net8.0/Activity4poo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Remiefart/Activity4poo/obj/Debug/net8.0/Activity4poo.AssemblyInfoInputs.cache
+/workspaces/Remiefart/Activity4poo/obj/Debug/net8.0/Activity4poo.AssemblyInfo.cs
+/workspaces/Remiefart/Activity4poo/obj/Debug/net8.0/Activity4poo.csproj.CoreCompileInputs.cache
+/workspaces/Remiefart/Activity4poo/obj/Debug/net8.0/Activity4poo.sourcelink.json
+/workspaces/Remiefart/Activity4poo/bin/Debug/net8.0/Activity4poo
+/workspaces/Remiefart/Activity4poo/bin/Debug/net8.0/Activity4poo.deps.json
+/workspaces/Remiefart/Activity4poo/bin/Debug/net8.0/Activity4poo.runtimeconfig.json
+/workspaces/Remiefart/Activity4poo/bin/Debug/net8.0/Activity4poo.dll
+/workspaces/Remiefart/Activity4poo/bin/Debug/net8.0/Activity4poo.pdb
+/workspaces/Remiefart/Activity4poo/obj/Debug/net8.0/Activity4poo.dll
+/workspaces/Remiefart/Activity4poo/obj/Debug/net8.0/refint/Activity4poo.dll
+/workspaces/Remiefart/Activity4poo/obj/Debug/net8.0/Activity4poo.pdb
+/workspaces/Remiefart/Activity4poo/obj/Debug/net8.0/Activity4poo.genruntimeconfig.cache
+/workspaces/Remiefart/Activity4poo/obj/Debug/net8.0/ref/Activity4poo.dll

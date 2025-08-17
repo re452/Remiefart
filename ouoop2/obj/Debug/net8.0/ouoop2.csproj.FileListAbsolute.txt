@@ -1,0 +1,15 @@
+/workspaces/Remiefart/ouoop2/obj/Debug/net8.0/ouoop2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Remiefart/ouoop2/obj/Debug/net8.0/ouoop2.AssemblyInfoInputs.cache
+/workspaces/Remiefart/ouoop2/obj/Debug/net8.0/ouoop2.AssemblyInfo.cs
+/workspaces/Remiefart/ouoop2/obj/Debug/net8.0/ouoop2.csproj.CoreCompileInputs.cache
+/workspaces/Remiefart/ouoop2/obj/Debug/net8.0/ouoop2.sourcelink.json
+/workspaces/Remiefart/ouoop2/bin/Debug/net8.0/ouoop2
+/workspaces/Remiefart/ouoop2/bin/Debug/net8.0/ouoop2.deps.json
+/workspaces/Remiefart/ouoop2/bin/Debug/net8.0/ouoop2.runtimeconfig.json
+/workspaces/Remiefart/ouoop2/bin/Debug/net8.0/ouoop2.dll
+/workspaces/Remiefart/ouoop2/bin/Debug/net8.0/ouoop2.pdb
+/workspaces/Remiefart/ouoop2/obj/Debug/net8.0/ouoop2.dll
+/workspaces/Remiefart/ouoop2/obj/Debug/net8.0/refint/ouoop2.dll
+/workspaces/Remiefart/ouoop2/obj/Debug/net8.0/ouoop2.pdb
+/workspaces/Remiefart/ouoop2/obj/Debug/net8.0/ouoop2.genruntimeconfig.cache
+/workspaces/Remiefart/ouoop2/obj/Debug/net8.0/ref/ouoop2.dll

@@ -1,0 +1,15 @@
+/workspaces/Remiefart/Activity6/obj/Debug/net8.0/Activity6.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Remiefart/Activity6/obj/Debug/net8.0/Activity6.AssemblyInfoInputs.cache
+/workspaces/Remiefart/Activity6/obj/Debug/net8.0/Activity6.AssemblyInfo.cs
+/workspaces/Remiefart/Activity6/obj/Debug/net8.0/Activity6.csproj.CoreCompileInputs.cache
+/workspaces/Remiefart/Activity6/obj/Debug/net8.0/Activity6.sourcelink.json
+/workspaces/Remiefart/Activity6/bin/Debug/net8.0/Activity6
+/workspaces/Remiefart/Activity6/bin/Debug/net8.0/Activity6.deps.json
+/workspaces/Remiefart/Activity6/bin/Debug/net8.0/Activity6.runtimeconfig.json
+/workspaces/Remiefart/Activity6/bin/Debug/net8.0/Activity6.dll
+/workspaces/Remiefart/Activity6/bin/Debug/net8.0/Activity6.pdb
+/workspaces/Remiefart/Activity6/obj/Debug/net8.0/Activity6.dll
+/workspaces/Remiefart/Activity6/obj/Debug/net8.0/refint/Activity6.dll
+/workspaces/Remiefart/Activity6/obj/Debug/net8.0/Activity6.pdb
+/workspaces/Remiefart/Activity6/obj/Debug/net8.0/Activity6.genruntimeconfig.cache
+/workspaces/Remiefart/Activity6/obj/Debug/net8.0/ref/Activity6.dll
